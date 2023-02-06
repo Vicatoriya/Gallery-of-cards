@@ -1,4 +1,3 @@
-# Gallery-of-cards
-## First attempt to work on JS
-## The result of my work you can watch here
-[///](https://vicatoriya.github.io/Gallery-of-cards/)
+# Gallery of cards
+## The result you can watch here
+[First attempt to work on JS](https://vicatoriya.github.io/Gallery-of-cards/)
